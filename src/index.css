@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800&display=swap");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: white;
+}
+
+li {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.card {
+  background: #000;
+}
+
+@layer utilities {
+  .grid-custom {
+    grid-template-columns: repeat(3, minmax(0, max-content));
+  }
+}
