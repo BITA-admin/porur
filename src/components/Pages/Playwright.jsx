@@ -21,6 +21,11 @@ const Playwright = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Master Playwright Automation Testing course from expert in 40 Hours. Join Playwright Automation Training in chennai and get placement with certificate"
+          />
+          <meta name="keywords" content="Playwright automation" />
         </Helmet>
         <Header />
         <Navbar />

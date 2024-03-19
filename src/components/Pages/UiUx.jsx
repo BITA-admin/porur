@@ -21,6 +21,11 @@ const UiUx = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Learn UI UX Course in Chennai at an affordable price to Master UI UX Design from experts in 3 months. Get a job by attending UI UX Design training in Chennai."
+          />
+          <meta name="keywords" content="ui ux course in chennai" />
         </Helmet>
         <Header />
         <Navbar />

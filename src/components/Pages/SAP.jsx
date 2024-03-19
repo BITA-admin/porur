@@ -17,10 +17,16 @@ const SAP = () => {
           <title>Course/SAP</title>
           <link rel="icon" type="image/svg+xml" href="/vite.png" />
           <link rel="canonical" href="https://traininginporur.in/sap" />
+
           <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Learn Finance accounting Course in chennai and controlling from experts in 50 Hours. Join SAP FICO Training in Chennai to get placement."
+          />
+          <meta name="keywords" content="SAP Course in chennai" />
         </Helmet>
         <Header />
         <Navbar />

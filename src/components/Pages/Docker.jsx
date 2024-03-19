@@ -21,6 +21,11 @@ const Docker = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Learn Docker and kubernetes course in chennai in 50+ hrs from Professionals. Join Docker Training in chennai online and get your 100%  placement."
+          />
+          <meta name="keywords" content="docker course" />
         </Helmet>
         <Header />
         <Navbar />

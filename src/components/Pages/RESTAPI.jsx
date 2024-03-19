@@ -21,6 +21,11 @@ const RESTAPI = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Do you aspire to course certification as a REST API analyst? Join REST API Training in chennai and get 100% placement with job support"
+          />
+          <meta name="keywords" content="REST API automation" />
         </Helmet>
         <Header />
         <Navbar />

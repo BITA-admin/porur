@@ -21,6 +21,11 @@ const Servicenow = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Elevate your IT service management skills with our ServiceNow Training in chennai. Enroll now to become a certified ServiceNow professional online"
+          />
+          <meta name="keywords" content="servicenow course" />
         </Helmet>
         <Header />
         <Navbar />

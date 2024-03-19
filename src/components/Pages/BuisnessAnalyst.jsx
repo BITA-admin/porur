@@ -21,6 +21,12 @@ const BuisnessAnalyst = () => {
             href="https://traininginporur.in/#businessanalyst"
           />
           <meta
+            name="description"
+            content="Unlock the doors to success in business analyst with our specialized Business Analyst Course in Chennai. Learn Training from experts. Enroll Now!"
+          />
+          <meta name="keywords" content="best business analyst course" />
+
+          <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />

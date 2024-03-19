@@ -21,6 +21,11 @@ const ReactJS = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Master the React course and become a web developer. Learn recent ReactJS concepts, such as Redux, React Router, and JSX. Join React JS Training in Chennai."
+          />
+          <meta name="keywords" content="react js course in chennai" />
         </Helmet>
         <Header />
         <Navbar />

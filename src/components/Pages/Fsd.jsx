@@ -21,6 +21,11 @@ const Fsd = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Full Stack Developer Training in Chennai. Available course JAVA, Python, Dot Net. Obtain placement for the full stack course in Chennai by joining FSD Training."
+          />
+          <meta name="keywords" content="Full Stack Developer Course" />
         </Helmet>
         <Header />
         <Navbar />

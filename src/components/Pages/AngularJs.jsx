@@ -17,6 +17,13 @@ const AngularJs = () => {
           <title>Course/AngularJs</title>
           <link rel="icon" type="image/svg+xml" href="/vite.png" />
           <link rel="canonical" href="https://traininginporur.in/angularjs" />
+
+          <meta
+            name="description"
+            content="Learn Angular 10 Course from basics to advanced concepts. Join AngularJS Training in Chennai  & get placement. 40 hours of hands on from expert for Course"
+          />
+          <meta name="keywords" content="Angular js course" />
+
           <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"

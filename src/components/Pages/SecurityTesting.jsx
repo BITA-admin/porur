@@ -24,6 +24,11 @@ const SecurityTesting = () => {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <meta
+            name="description"
+            content="Are you interested in mastering Security Testing Course? Join Security Testing Training in Chennai and get 100% placement support for Security testing"
+          />
+          <meta name="keywords" content="Security testing course " />
         </Helmet>
         <Header />
         <Navbar />
